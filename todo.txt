@@ -1,0 +1,20 @@
+安裝
+1.nvm 管理node.js版本
+https://blog.miniasp.com/post/2023/12/28/Use-NVM-to-Manage-Multiple-Node-Versions
+1-1.安裝node.js (gemini要20以上的版本)
+nvm install 20.16.0
+
+2. 安裝gemini
+sudo npm install -g @google/gemini-cli
+2-1.gemini在vscode的套件
+Gemini CLI Companion
+
+3.安裝python
+winget install -e --id Python.Python.3.12
+3-1.python在vscode的套件
+Python
+
+4.安裝streamlit
+pip install streamlit
+
+執行py streamlit run app.py
