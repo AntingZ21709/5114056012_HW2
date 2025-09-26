@@ -17,4 +17,18 @@ Python
 4.安裝streamlit
 pip install streamlit
 
-執行py streamlit run app.py
+執行python
+streamlit run app.py
+
+5.安裝python套件
+bash pip install -r requirements.txt
+bash
+      pip install -r requirements.txt
+      pip uninstall -y flask
+
+5-1.
+pip install scipy
+
+5-2.
+pip install scikit-learn
+
