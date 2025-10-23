@@ -326,4 +326,4 @@ File "C:\Users\user\Desktop\5114056012 - HW2\app.py", line 4, in <module>
   >>Shell pip install seaborn (使用 pip 安裝 seaborn 函式庫，以解決 ModuleNotFoundError。)
 
   12.streamlit run app.py
-  
+  完成！
